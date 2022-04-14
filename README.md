@@ -248,3 +248,6 @@ optional arguments:
   -h, --help        show this help message and exit
   -a, --aggressive  If specified, kill the session whenever a project file is modified.
 ```
+## Acknowledgments
+
+This project is part of the [Intermediate python nanodegree](https://www.udacity.com/course/intermediate-python-nanodegree--nd303) of [Udacity](https://www.udacity.com/)
