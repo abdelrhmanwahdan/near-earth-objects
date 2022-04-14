@@ -250,4 +250,4 @@ optional arguments:
 ```
 ## Acknowledgments
 
-This project is part of the [Intermediate python nanodegree](https://www.udacity.com/course/intermediate-python-nanodegree--nd303) of [Udacity](https://www.udacity.com/)
+This project is part of the [Intermediate python nanodegree](https://www.udacity.com/course/intermediate-python-nanodegree--nd303) of [Udacity](https://www.udacity.com/).
